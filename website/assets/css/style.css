@@ -1,7 +1,9 @@
 body{
     background: black;
-    max-width: 1024px;
     margin: 0 auto;
+}
+.cuerpo-pagina{
+    max-width: 1024px;
 }
 .texto-pequeño{
     font-size: 0.7rem;
